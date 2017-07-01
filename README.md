@@ -1,10 +1,10 @@
 NetsCoin
---------
+========
 
 ![NetsCoin Logo](https://avatars3.githubusercontent.com/u/29796172?v=3&s=460)
 
 Technical Parameters
-====================
+--------------------
 
 Coin Abbreviation (Ticker): NTC
 
@@ -23,7 +23,7 @@ Halving every 2,000,000 blocks
 Total Coins: 50,000,000,000
 
 Connections
-===========
+-----------
 
 Node IPs:
 
@@ -33,7 +33,7 @@ rpc port: 24298
 net port: 24299
 
 How To Compile
-==============
+--------------
 
 ```
 apt-get update && apt-get upgrade
@@ -50,7 +50,7 @@ strip NetsCoin
 ```
 
 How To Mine
-===========
+-----------
 
 You can use tools like `cgminer` or mine directly using the compiled wallet by writing into your ~/.NetsCoin/NetsCoin.conf:
 
